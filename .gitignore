@@ -1,0 +1,23 @@
+# -----------------------------------------------------------------
+# 1. Operating System/macOS files
+# -----------------------------------------------------------------
+.DS_Store
+# Thumbnails and hidden trash folders
+.Trashes
+.Spotlight-V100
+.TemporaryItems/
+
+# -----------------------------------------------------------------
+# 2. Rust/Cargo Build Outputs
+# -----------------------------------------------------------------
+# The directory where compiled binaries and artifacts are stored
+/target/
+
+# -----------------------------------------------------------------
+# 3. Common Editor/IDE files (e.g., VS Code)
+# -----------------------------------------------------------------
+.idea/
+.vscode/
+*~
+.DS_Store
+/target/
