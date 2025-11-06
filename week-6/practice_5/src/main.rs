@@ -8,5 +8,4 @@ fn main() {
     println!();
     println!("After trim ");
     println!("length is {}",fullname.trim().len());
-
 }
