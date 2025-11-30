@@ -1,0 +1,24 @@
+Name
+Oluchi Mordi
+Adams Aliyu
+Shania Bolade
+Adekunle Gold
+Blanca Edemoh
+Matric Number
+ACC
+ECO
+CSC
+EEE
+MEE
+Department
+Accounting
+Economics
+Computer
+Electrical
+Mechanical
+Student Level
+300
+100
+200
+200
+100
